@@ -1,3 +1,3 @@
-module github.com/your-username/old-repo-name
+module github.com/cowsking/old-repo-name
 
 go 1.24.4
