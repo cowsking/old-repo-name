@@ -1,3 +1,3 @@
-module github.com/cowsking/old-repo-name
+module myvanity.test/mymodule
 
 go 1.24.4
